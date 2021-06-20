@@ -1,0 +1,132 @@
+
+.logo {
+	display: inline-block;
+	margin-right: 50px;
+	vertical-align: middle;
+}
+.navigation {
+	display: inline-block;
+	vertical-align: middle;
+}
+.nav-li {
+	display: inline-block;
+	margin-right: 20px;
+}
+.featured {
+	margin-top: 117px;
+	margin-bottom: 30px;
+	font-family: 'Roboto', sans-serif;
+
+}
+
+.container-block {
+	width: 1170px;
+	
+	margin: 0 auto;
+	background-color: white;
+}
+.left-block {
+	width: 570px;
+	background-color: #F2F2F2;
+	display: inline-block;
+	padding: 13px 15px 24px 20px;
+}
+.right-block {
+	width: 570px;
+	background-color: #F2F2F2;
+	display: inline-block;
+	padding: 13px 15px 24px 20px;
+}
+.text-block {
+	display: inline-block;
+	width: 355px;
+	vertical-align: middle;
+	font-family: 'Roboto';
+	font-style: italic;
+}
+.title1 {margin-bottom: 11px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: bold;
+}
+
+.active {color: #EE4036;
+}
+.image-block {
+	vertical-align: middle;
+	margin-right: 60px;
+}
+.title-block {
+	margin-bottom: 12.5px;
+
+}
+
+.footer {margin-top: 55px
+}
+.divider {width: 1px;
+			height: 27px;
+			background-color: #343E97;
+			display: inline-block;
+			margin-right: 32px;
+			margin-left: 35px;
+			}
+
+.section-title {
+	text-align: center;
+}
+
+/*news page */
+
+
+
+.date {width: 56px; 
+		height: 56px;
+		background-color: #3D58A6;
+		margin-top: 29px;
+		padding: 7px 10px; 
+		font-size: 37px;
+		color: #fff;
+	}
+
+.text-block1 {display: inline-block;
+				width: 929px;
+				vertical-align: top;}
+.image-block1 {vertical-align: top;
+				margin-right: 39px;}
+.title2 {margin-top: 33px;
+	margin-bottom: 21px;
+	font-family: "BPG Nino Mtavruli Bold", sans-serif;
+	 }
+.text1 {margin-bottom: 21px;
+	font-family: 'BPG Ingiri Arial';
+}
+.month {font-size: 22;
+		color: #3D58A6;
+		margin-top: 16px;
+	}
+	/*contact page */
+
+.ruka {
+	width: 850px;
+	height: 465px;
+}
+.section-contact {
+	background-color: #E6E6E6;
+
+}
+.container {width: 1172px;
+	margin: 0 auto;
+
+}
+.left-block1 {display: inline-block;
+	vertical-align: top;
+	margin: 57px 64px 97px}
+.right-block1 {display: inline-block;
+	margin-top: 40px;
+	margin-right: 95px;
+	margin-bottom: 66px;}
+.span1 {font-size: 16px;
+	color: #808080;}
+.contact-info {font-size: 20px;
+	color: #3D58A6;}
+
+	
